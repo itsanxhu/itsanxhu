@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anshu 👋
 
-<!--
-**itsanxhu/itsanxhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer focused on building clean, responsive, and interactive web experiences.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript (ES6+)
+- React.js
+- HTML5 & CSS3
+- Tailwind CSS
+- Git & GitHub
+- Vite
+
+### 🌱 Currently Learning
+
+- Advanced React
+- JavaScript
+- Frontend development
+- Python
+
+### 🚀 Projects
+
+I enjoy building frontend projects and experimenting with UI, animations, and interactive experiences.
+
+### 📫 Connect with me
+
+- GitHub: [@itsanxhu](https://github.com/itsanxhu)
+- LinkedIn: [Anshu Saini](YOUR_LINKEDIN_URL)
+
+---
+
+⭐ Feel free to check out my repositories!
