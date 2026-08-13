@@ -1,6 +1,6 @@
 Hey, I'm Anshu
 
-Frontend developer building modern, high-quality web applications
+Frontend developer building modern, high-quality web applications<br>
 I'm currently imporoving my skills in React.js, Next.js, Tailwind CSS, Javascript
 
 <!-- [About me &rarr;](https://priyabhatt.in/) <br />
