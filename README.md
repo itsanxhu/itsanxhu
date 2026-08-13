@@ -10,6 +10,6 @@ I'm a Frontend Developer. I build modern, high-quality web applications
 
 [About me &rarr;](#about)
 <br /><br />
-<a href="https://www.linkedin.com/in/itsanxhu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/itsanxhu"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/itsanxhu"><img src="https://img.shields.io/badge/X-18181b?style=flat&logo=x&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/itsanxhu"><img src="https://img.shields.io/badge/GitHub-334155?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/itsanxhu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;&nbsp;<a href="https://x.com/itsanxhu"><img src="https://img.shields.io/badge/X-18181b?style=flat&logo=x&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.behance.net/itsanxhu"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/itsanxhu"><img src="https://img.shields.io/badge/GitHub-334155?style=flat&logo=github&logoColor=white"/></a>
 
 
