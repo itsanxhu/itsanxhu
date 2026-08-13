@@ -1,25 +1,9 @@
-<div align="center">
+Hey, I'm Anshu
 
-## Hi, I'm Anshu Saini
-
-### Frontend developer building modern, high-quality web applications
+Frontend developer building modern, high-quality web applications
 
 I'm currently imporoving my skills in React.js, Next.js, Tailwind CSS, Javascript
-</div>
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,react,tailwind,js,html,css,ps,ae,git,github" />
-  </a>
-</p>
-
-#### Connect with me
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-Email : [gmail](mailto:anshhufx@gmail.com)
-X : [@itsanxhu](https://x.com/itsanxhu)
-LinkedIn : [Anshu Saini](YOUR_LINKEDIN_URL)
-<a href="https://github.com/yourusername">
-  <img src="https://cdn.simpleicons.org/github" width="30" />
-</a>
+[About me &rarr;](https://priyabhatt.in/) <br />
+[Follow me on X &rarr;](https://x.com/priyabhatttt)
+<a href="https://www.linkedin.com/in/narsi-bhati-b43459224/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/narsixyz"><img src="https://img.shields.io/badge/X-18181b?style=flat&logo=x&logoColor=white"/></a> <a href="https://github.com/narsibhati-dev"><img src="https://img.shields.io/badge/GitHub-334155?style=flat&logo=github&logoColor=white"/></a>
