@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi, I'm Anshu Saini
+## Hi, I'm Anshu Saini
 
-##### Frontend developer building modern, high-quality web applications
+### Frontend developer building modern, high-quality web applications
 
 I'm currently imporoving my skills in React.js, Next.js, Tailwind CSS, Javascript
 </div>
