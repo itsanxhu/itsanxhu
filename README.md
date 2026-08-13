@@ -1,32 +1,25 @@
-# Hi, I'm Anshu 👋
+<div align="center">
 
-I'm a web developer focused on building clean, responsive, and interactive web experiences.
+### Hi, I'm Anshu Saini
 
-### 🛠️ Tech Stack
+##### Frontend developer building modern, high-quality web applications
 
-- JavaScript (ES6+)
-- React.js
-- HTML5 & CSS3
-- Tailwind CSS
-- Git & GitHub
-- Vite
+I'm currently imporoving my skills in React.js, Next.js, Tailwind CSS, Javascript
+</div>
 
-### 🌱 Currently Learning
 
-- Advanced React
-- JavaScript
-- Frontend development
-- Python
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,react,tailwind,js,html,css,ps,ae,git,github" />
+  </a>
+</p>
 
-### 🚀 Projects
+#### Connect with me
 
-I enjoy building frontend projects and experimenting with UI, animations, and interactive experiences.
-
-### 📫 Connect with me
-
-- GitHub: [@itsanxhu](https://github.com/itsanxhu)
-- LinkedIn: [Anshu Saini](YOUR_LINKEDIN_URL)
-
----
-
-⭐ Feel free to check out my repositories!
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Email : [gmail](mailto:anshhufx@gmail.com)
+X : [@itsanxhu](https://x.com/itsanxhu)
+LinkedIn : [Anshu Saini](YOUR_LINKEDIN_URL)
+<a href="https://github.com/yourusername">
+  <img src="https://cdn.simpleicons.org/github" width="30" />
+</a>
