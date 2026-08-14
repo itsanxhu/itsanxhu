@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=22&letterSpacing=-1px&color=276CF4&background=F1FFFC00&vCenter=true&repeat=false&width=435&height=25&lines=Hey%2C+I'm+Anshu)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=22&letterSpacing=-1px&color=276CF4&background=F1FFFC00&vCenter=true&repeat=false&width=435&height=25&lines=Hey%2C+I'm+Anshu)](https://github.com/itsanxhu)
 
 <!-- Frontend developer building modern, high-quality web applications<br>
 I'm currently imporoving my skills in React.js, Next.js, Tailwind CSS, Javascript -->
